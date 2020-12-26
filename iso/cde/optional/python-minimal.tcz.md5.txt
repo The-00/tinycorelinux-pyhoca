@@ -1,0 +1,1 @@
+8d4cf0f8bb15e3e8136bff348d646e83  python-minimal.tczl
